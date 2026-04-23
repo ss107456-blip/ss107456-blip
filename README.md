@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20Grover&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Data%20Scientist%20%7C%20AI%20%26%20Analytics%20Specialist%20%7C%20Python%20Developer&descSize=16&descAlignY=56&descColor=aad4f5" />
 
