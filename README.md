@@ -1,31 +1,32 @@
 <div align="center">
 
-<img src="profile.jpeg" width="110" style="border-radius:50%"/>
+<img src="profile.jpeg" width="96" style="border-radius:50%"/>
 
+<br/><br/>
 
 # Abhishek Grover
 
-**Data Scientist  ·  Python Developer  ·  AI & Analytics Specialist**
+**Data Scientist &nbsp;·&nbsp; Python Developer &nbsp;·&nbsp; AI & Analytics Specialist**
 
-[![Email](https://img.shields.io/badge/Email-ss107456%40gmail%2Ecom-333?style=flat-square&logo=gmail&logoColor=white)](mailto:ss107456@gmail.com) [![Location](https://img.shields.io/badge/Location-New%20Delhi%2C%20India-333?style=flat-square&logo=googlemaps&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhishekgrover-333?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekgrover) [![GitHub](https://img.shields.io/badge/GitHub-AbhishekGrover-333?style=flat-square&logo=github&logoColor=white)](https://github.com/AbhishekGrover)
+<sub>New Delhi, India &nbsp;·&nbsp; ss107456@gmail.com</sub>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AbhishekGrover&color=555&style=flat-square&label=Profile+Views)
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-ss107456%40gmail.com-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:ss107456@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Grover-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekgrover)
+[![Profile Views](https://komarev.com/ghpvc/?username=AbhishekGrover&color=1a1a1a&style=flat-square&label=Profile+Views)]()
 
 </div>
 
-
 ---
-
-## About Me
 
 ```python
 class AbhishekGrover:
     def __init__(self):
-        self.name        = "Abhishek Grover"
-        self.role        = "Data Scientist | Python Developer | AI Specialist"
-        self.location    = "New Delhi, India 🇮🇳"
-        self.education   = "Amity University Online — BCA, Sem 4 (Expected 2027)"
-        self.certifications = 10  # JPMorgan, BCG, Deloitte, TATA, BA + more
+        self.role       = "Data Scientist | Python Developer | AI Specialist"
+        self.education  = "BCA, Amity University Online — Sem 4 (Expected 2027)"
+        self.location   = "New Delhi, India"
+        self.certs      = 10  # JPMorgan · BCG · Deloitte · TATA · British Airways + more
 
         self.stack = {
             "data"      : ["Pandas", "NumPy", "Matplotlib", "Scikit-learn"],
@@ -33,83 +34,70 @@ class AbhishekGrover:
             "creative"  : ["Photoshop", "Premiere Pro", "Canva"],
         }
 
-        self.impact = "80% reduction in workflow time via AI automation ⚡"
-        self.status = "Actively learning: Kaggle ML · Coursera Deep Learning"
-
-    def say_hi(self):
-        print("Let the data tell the story. 📊")
-        print("And let AI write the first draft. 🤖")
+        self.impact  = "80% reduction in workflow time via AI automation"
+        self.status  = "Kaggle ML · Coursera Deep Learning · Open to opportunities"
 ```
 
 ---
 
-## At a Glance
+## Numbers
 
-<div align="center">
-
-| 🏅 Certifications | ⚡ Workflow Time Saved | 🚀 Projects | 📍 Location |
-|:---:|:---:|:---:|:---:|
-| **10** | **80%** | **3+** | New Delhi, India |
-
-</div>
+| Certifications | Workflow Time Saved | Featured Projects |
+|:-:|:-:|:-:|
+| **10** | **80 %** | **3+** |
 
 ---
 
 ## Industry Certifications
 
-> 10 virtual experience programmes from globally recognised firms
-
 | # | Firm | Programme | Domain |
 |---|------|-----------|--------|
-| `01` | **JPMorgan Chase & Co.** | Quantitative Research Virtual Experience | `Quant Modeling` |
-| `02` | **BCG X** | Generative AI Virtual Experience | `AI Strategy` |
-| `03` | **BCG X** | Data Science Virtual Experience | `ML Pipelines` |
-| `04` | **Quantium** | Data Analytics Virtual Experience | `Segmentation` |
-| `05` | **British Airways** | Data Science Virtual Experience | `Predictive Analytics` |
-| `06` | **Deloitte** | Data Analytics Virtual Experience | `Forensic Analysis` |
-| `07` | **TATA Group** | Gen AI-Powered Data Analytics | `AI Reporting` |
-| `08` | **Lloyds Banking Group** | Data Science Virtual Experience | `Financial Modelling` |
-| `09` | **Commonwealth Bank** | Introduction to Data Science | `EDA & Data Literacy` |
-| `10` | **Electronic Arts** | Product Management Virtual Experience | `Data-Driven Product` |
+| 01 | JPMorgan Chase & Co. | Quantitative Research | `Quant Modeling` |
+| 02 | BCG X | Generative AI Experience | `AI Strategy` |
+| 03 | BCG X | Data Science Experience | `ML Pipelines` |
+| 04 | Quantium | Data Analytics | `Segmentation` |
+| 05 | British Airways | Data Science | `Predictive Analytics` |
+| 06 | Deloitte | Data Analytics | `Forensic Analysis` |
+| 07 | TATA Group | Gen AI-Powered Analytics | `AI Reporting` |
+| 08 | Lloyds Banking Group | Data Science | `Financial Modelling` |
+| 09 | Commonwealth Bank | Introduction to Data Science | `EDA & Data Literacy` |
+| 10 | Electronic Arts | Product Management | `Data-Driven Product` |
 
 ---
 
-## Tech Stack
+## Stack
 
-**Python & Data**  
-![Python](https://img.shields.io/badge/Python-222?style=flat-square)  ![Pandas](https://img.shields.io/badge/Pandas-222?style=flat-square)  ![NumPy](https://img.shields.io/badge/NumPy-222?style=flat-square)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-222?style=flat-square)  ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-222?style=flat-square)  ![EDA](https://img.shields.io/badge/EDA-222?style=flat-square)  ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-222?style=flat-square)  ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-222?style=flat-square)
+**Python & Data**
+`Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `EDA` `Statistics` `Data Cleaning`
 
-**AI & Automation**  
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-222?style=flat-square)  ![ChatGPT / GPT APIs](https://img.shields.io/badge/ChatGPT%20%2F%20GPT%20APIs-222?style=flat-square)  ![Midjourney](https://img.shields.io/badge/Midjourney-222?style=flat-square)  ![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-222?style=flat-square)  ![Generative AI](https://img.shields.io/badge/Generative%20AI-222?style=flat-square)
+**AI & Automation**
+`Prompt Engineering` `ChatGPT API` `Midjourney` `Generative AI` `Workflow Automation`
 
-**Creative Suite**  
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-222?style=flat-square)  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-222?style=flat-square)  ![Canva](https://img.shields.io/badge/Canva-222?style=flat-square)  ![CapCut](https://img.shields.io/badge/CapCut-222?style=flat-square)
+**Creative Suite**
+`Adobe Photoshop` `Adobe Premiere Pro` `Canva` `CapCut`
 
 ---
 
-## Featured Projects
+## Projects
 
-### Python Data Analysis & Visualization
-> *Academic Project*
+**Python Data Analysis & Visualization** &nbsp;·&nbsp; *Academic*
+End-to-end ML pipeline from raw data through cleaning, regression and classification models (Scikit-learn), to stakeholder-ready visual reports with Matplotlib. Full EDA → Feature Engineering → Model Evaluation cycle.
 
-- End-to-end pipeline: data ingestion → cleaning → modelling with Pandas & NumPy
-- Linear Regression & Classification models via Scikit-learn
-- Stakeholder-ready visual reports built with Matplotlib
-- Full cycle: EDA → Feature Engineering → Model Evaluation
+**AI-Powered Workflow Automation Suite** &nbsp;·&nbsp; *Personal*
+Audited repetitive workflows and rebuilt them as GPT-based AI pipelines. Achieved 80% reduction in task completion time through structured prompt chains. Produced a reusable prompt-template library with documented best practices.
 
-### AI-Powered Workflow Automation Suite
-> *Personal Project*
+**Creative Content Portfolio** &nbsp;·&nbsp; *Freelance*
+Brand assets, short-form video, and social content for small businesses using Canva and Photoshop. Integrated Midjourney AI into the design workflow for 10× creative throughput.
 
-- Audited repetitive workflows and re-engineered as GPT-based AI pipelines
-- Achieved 80% reduction in task completion time through structured prompt chains
-- Documented reusable prompt templates & best practices for reproducibility
+---
 
-### Creative Content Portfolio
-> *Freelance*
+## Education
 
-- Brand assets & social graphics for small businesses — Canva & Photoshop
-- Short-form video editing: reels, explainer videos, YouTube Shorts
-- Integrated Midjourney AI to accelerate creative output by 10×
+**Bachelor of Computer Applications (BCA)** &nbsp;·&nbsp; Expected 2027
+Amity University Online, Noida &nbsp;·&nbsp; Semester 4
+
+Relevant coursework: Data Structures · DBMS · Statistics · Python Programming
+Supplemented with 10 industry virtual programmes and self-directed data science projects.
 
 ---
 
@@ -117,31 +105,13 @@ class AbhishekGrover:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AbhishekGrover&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGrover&layout=compact&langs_count=6&theme=default&hide_border=true"/>
-
-<img width="60%" src="https://streak-stats.demolab.com?user=AbhishekGrover&theme=default&hide_border=true"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=AbhishekGrover&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=cccccc&text_color=888888&icon_color=888888"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGrover&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=cccccc&text_color=888888"/>
 
 </div>
 
 ---
 
-## Education
-
-**Bachelor of Computer Applications (BCA)**  
-Amity University Online, Noida · Semester 4 · Expected 2027  
-
-Relevant coursework: Data Structures · DBMS · Statistics · Python Programming
-
----
-
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-ss107456%40gmail.com-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ss107456@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-333?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekgrover)
-
-*"Data tells the story. AI writes the future. I build the pipeline."*
-
-*Generated with Python · April 2026*
-
+<sub><i>"Data tells the story. AI writes the future. I build the pipeline."</i></sub>
 </div>
