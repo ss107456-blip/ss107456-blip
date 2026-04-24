@@ -1,62 +1,132 @@
 <div align="center">
 
-<!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020509,50:00e5ff,100:020509&height=120&section=header&text=&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,40:0d0d0d,100:080808&height=100&section=header&animation=fadeIn"/>
 
-<!-- Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=15&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&height=40&lines=Initialising+portfolio...;Loading+AbhishekGrover();Status+%3A+Open+to+opportunities+%E2%97%89)](https://git.io/typing-svg)
+</div>
 
-# Abhishek Grover
+<div align="center">
 
-**Data Scientist &nbsp;·&nbsp; Python Developer &nbsp;·&nbsp; AI & Analytics Specialist**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=800&size=52&pause=3000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Abhishek+Grover)](https://git.io/typing-svg)
 
-<sub>New Delhi, India &nbsp;·&nbsp; ss107456@gmail.com</sub>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=13&pause=2000&color=666666&center=true&vCenter=true&width=600&height=30&lines=Data+Scientist+·+Python+Developer+·+AI+%26+Analytics+Specialist)](https://git.io/typing-svg)
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-ss107456%40gmail.com-020509?style=flat-square&logo=gmail&logoColor=00e5ff&labelColor=020509&color=020509)](mailto:ss107456@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-020509?style=flat-square&logo=linkedin&logoColor=00e5ff&labelColor=020509&color=020509)](https://linkedin.com/in/abhishekgrover)
-[![GitHub](https://img.shields.io/badge/GitHub-AbhishekGrover-020509?style=flat-square&logo=github&logoColor=00e5ff&labelColor=020509&color=020509)](https://github.com/AbhishekGrover)
-[![Views](https://komarev.com/ghpvc/?username=AbhishekGrover&color=00e5ff&style=flat-square&label=Profile+Views)](https://github.com/AbhishekGrover)
+[![Email](https://img.shields.io/badge/ss107456%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=666666)](mailto:ss107456@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=666666)](https://linkedin.com/in/abhishekgrover)
+&nbsp;
+[![Location](https://img.shields.io/badge/New%20Delhi%2C%20India-111111?style=flat-square&logo=googlemaps&logoColor=666666)]()
+&nbsp;
+[![Views](https://komarev.com/ghpvc/?username=AbhishekGrover&color=111111&style=flat-square&label=views)](https://github.com/AbhishekGrover)
 
 </div>
+
+<br/>
 
 ---
 
 ```python
 class AbhishekGrover:
     def __init__(self):
-        self.role       = "Data Scientist | Python Developer | AI Specialist"
-        self.education  = "BCA, Amity University Online — Sem 4 (Expected 2027)"
+        self.role       = "Data Scientist  ·  Python Developer  ·  AI Specialist"
         self.location   = "New Delhi, India"
-        self.certs      = 10  # JPMorgan · BCG · Deloitte · TATA · British Airways + more
+        self.education  = "BCA — Amity University Online, Sem 4 (Expected 2027)"
+        self.email      = "ss107456@gmail.com"
 
         self.stack = {
-            "data"      : ["Pandas", "NumPy", "Matplotlib", "Scikit-learn"],
-            "ai"        : ["Prompt Engineering", "ChatGPT API", "Midjourney"],
-            "creative"  : ["Photoshop", "Premiere Pro", "Canva"],
+            "data"      : ["Python", "Pandas", "NumPy", "Matplotlib", "Scikit-learn"],
+            "ai"        : ["Claude · Anthropic", "ChatGPT API", "Prompt Engineering",
+                           "Midjourney", "Generative AI", "Workflow Automation"],
+            "creative"  : ["Adobe Photoshop", "Premiere Pro", "Canva", "CapCut"],
         }
 
-        self.impact  = "80% reduction in workflow time via AI automation"
-        self.status  = "Kaggle ML · Coursera Deep Learning · Open to opportunities"
+        self.certifications = 10   # JPMorgan · BCG · Deloitte · TATA · BA + more
+        self.impact         = "80% reduction in workflow time via AI"
+        self.status         = "Open to opportunities"
 ```
 
 ---
 
+<br/>
+
 <div align="center">
 
-| Certifications | Workflow Time Saved | Featured Projects |
-|:-:|:-:|:-:|
-| `10` | `80%` | `3+` |
+```
+  ┌──────────────────┬──────────────────┬──────────────────┐
+  │  Certifications  │  Workflow Saved   │     Projects     │
+  │       10         │       80%         │       3+         │
+  │  Industry Firms  │   via AI Models   │    Featured      │
+  └──────────────────┴──────────────────┴──────────────────┘
+```
+
+</div>
+
+<br/>
+
+---
+
+## AI & Tools
+
+<div align="center">
+
+[![Claude](https://img.shields.io/badge/Claude_·_Anthropic-111111?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
+&nbsp;
+[![ChatGPT](https://img.shields.io/badge/ChatGPT_API-111111?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+&nbsp;
+[![Midjourney](https://img.shields.io/badge/Midjourney-111111?style=for-the-badge&logoColor=white)](https://midjourney.com)
+
+[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111111?style=flat-square&logoColor=white)]()
+[![Generative AI](https://img.shields.io/badge/Generative_AI-111111?style=flat-square&logoColor=white)]()
+[![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-111111?style=flat-square&logoColor=white)]()
 
 </div>
 
 ---
 
-## Certifications
+## Data Stack
+
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=666666)]()
+[![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=666666)]()
+[![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=666666)]()
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=flat-square&logoColor=666666)]()
+[![Scikit--learn](https://img.shields.io/badge/Scikit--learn-111111?style=flat-square&logo=scikit-learn&logoColor=666666)]()
+[![EDA](https://img.shields.io/badge/EDA-111111?style=flat-square&logoColor=666666)]()
+[![Statistics](https://img.shields.io/badge/Statistics-111111?style=flat-square&logoColor=666666)]()
+
+</div>
+
+---
+
+## Projects
+
+&nbsp;&nbsp;`01` &nbsp; **Python Data Analysis & Visualization** &nbsp;·&nbsp; *Academic*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End-to-end ML pipeline — ingestion, cleaning, regression & classification via Scikit-learn.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stakeholder-ready Matplotlib reports. Full EDA → Feature Engineering → Model Evaluation.
+
+<br/>
+
+&nbsp;&nbsp;`02` &nbsp; **AI-Powered Workflow Automation Suite** &nbsp;·&nbsp; *Personal*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rebuilt repetitive workflows as **Claude + GPT AI pipelines**. Achieved **80% reduction**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in task completion time. Reusable prompt-template library with documented best practices.
+
+<br/>
+
+&nbsp;&nbsp;`03` &nbsp; **Creative Content Portfolio** &nbsp;·&nbsp; *Freelance*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brand assets, short-form video and social content. Integrated Midjourney AI
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;into the design workflow for **10× creative throughput**.
+
+---
+
+## Certifications &nbsp;·&nbsp; 10 Industry Virtual Programmes
 
 | `#` | Firm | Programme | Domain |
-|:---:|------|-----------|--------|
+|:---:|:-----|:----------|:-------|
 | 01 | **JPMorgan Chase & Co.** | Quantitative Research | `Quant Modeling` |
 | 02 | **BCG X** | Generative AI Experience | `AI Strategy` |
 | 03 | **BCG X** | Data Science Experience | `ML Pipelines` |
@@ -70,40 +140,12 @@ class AbhishekGrover:
 
 ---
 
-## Stack
-
-**Python & Data** &nbsp;
-`Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `EDA` `Statistics` `Data Cleaning`
-
-**AI & Automation** &nbsp;
-`Prompt Engineering` `ChatGPT API` `Midjourney` `Generative AI` `Workflow Automation`
-
-**Creative Suite** &nbsp;
-`Adobe Photoshop` `Adobe Premiere Pro` `Canva` `CapCut`
-
----
-
-## Projects
-
-**Python Data Analysis & Visualization** &nbsp;·&nbsp; `Academic`
-End-to-end ML pipeline — data ingestion, cleaning, regression and classification via Scikit-learn, stakeholder-ready Matplotlib visual reports. Full EDA → Feature Engineering → Model Evaluation cycle.
-
-**AI-Powered Workflow Automation Suite** &nbsp;·&nbsp; `Personal`
-Audited repetitive workflows and rebuilt them as GPT-based AI pipelines. Achieved 80% reduction in task completion time. Produced a reusable prompt-template library with documented best practices.
-
-**Creative Content Portfolio** &nbsp;·&nbsp; `Freelance`
-Brand assets, short-form video, and social content for small businesses. Integrated Midjourney AI into the design workflow for 10× creative throughput.
-
----
-
 ## Education
 
 **Bachelor of Computer Applications (BCA)** &nbsp;·&nbsp; `Expected 2027`
 Amity University Online, Noida &nbsp;·&nbsp; Semester 4
 
-`Data Structures` `DBMS` `Statistics` `Python Programming`
-
-Supplemented with 10 industry virtual programmes and self-directed data science projects.
+`Data Structures` &nbsp; `DBMS` &nbsp; `Statistics` &nbsp; `Python Programming`
 
 ---
 
@@ -111,10 +153,11 @@ Supplemented with 10 industry virtual programmes and self-directed data science 
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=AbhishekGrover&show_icons=true&theme=dark&hide_border=true&bg_color=020509&title_color=00e5ff&text_color=5a7a90&icon_color=00e5ff"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGrover&layout=compact&theme=dark&hide_border=true&bg_color=020509&title_color=00e5ff&text_color=5a7a90"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=AbhishekGrover&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=555555&icon_color=444444&ring_color=333333"/>
+&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekGrover&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=555555"/>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=AbhishekGrover&theme=dark&hide_border=true&background=020509&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff"/>
+<img width="55%" src="https://streak-stats.demolab.com?user=AbhishekGrover&hide_border=true&background=0d0d0d&ring=444444&fire=666666&currStreakLabel=555555&sideLabels=444444&dates=333333&currStreakNum=ffffff&sideNums=aaaaaa"/>
 
 </div>
 
@@ -122,8 +165,10 @@ Supplemented with 10 industry virtual programmes and self-directed data science 
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020509,50:00e5ff,100:020509&height=80&section=footer"/>
-
 <sub><i>"Data tells the story. AI writes the future. I build the pipeline."</i></sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,40:0d0d0d,100:080808&height=80&section=footer"/>
 
 </div>
